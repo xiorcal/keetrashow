@@ -1,0 +1,12 @@
+utiliser api imdb
+
+--> search by title 
+--> valider le choix du bon
+--> get details by id --> nb de saisons
+ex : the wire
+--> get sesaon by number 
+
+ex : the wire saison 1
+
+
+voir l'api beta series sinon

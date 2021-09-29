@@ -1,0 +1,11 @@
+{
+  "shows": [
+    {
+      "title": "the wire",
+      "last_watched": "s01e07",
+      "season_number": 5,
+      "last_of_season": ["s01e13", "s02e12", "s03e12", "s04e13", "s05e10"],
+      "ongoing": false
+    }
+  ]
+}

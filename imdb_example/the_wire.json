@@ -1,0 +1,390 @@
+{
+  "id": "tt0306414",
+  "title": "The Wire",
+  "originalTitle": "",
+  "fullTitle": "The Wire (TV Series 2002–2008)",
+  "type": "TVSeries",
+  "year": "2002",
+  "image": "https://imdb-api.com/images/original/MV5BNTllYzFhMjAtZjExNS00MjM4LWE5YmMtOGFiZGRlOTU5YzJiXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.6791_AL_.jpg",
+  "releaseDate": "2002-06-02",
+  "runtimeMins": "59",
+  "runtimeStr": "59mins",
+  "plot": "Set in Baltimore, this show centers around the city's inner-city drug scene. It starts as mid-level drug dealer, D'Angelo Barksdale beats a murder rap. After a conversation with a judge, Det. James McNulty has been assigned to lead a joint homicide and narcotics team, in order to bring down drug kingpin Avon Barksdale. Avon Barksdale, accompanied by his right-hand man Stringer Bell, enforcer Wee-Bey and many lieutenants (including his own nephew, D'Angelo Barksdale), has to deal with law enforcement, informants in his own camp, and competition with a local rival, Omar, who's been robbing Barksdale's dealers and reselling the drugs. The supervisor of the investigation, Lt. Cedric Daniels, has to deal with his own problems, such as a corrupt bureaucracy, some of his detectives beating suspects, hard-headed but determined Det. McNulty, and a blackmailing deputy. The show depicts the lives of every part of the drug \"food chain\", from junkies to dealers, and from cops to politicians.",
+  "plotLocal": "",
+  "plotLocalIsRtl": false,
+  "awards": "Top Rated TV #7 | Nominated for 2 Primetime Emmys. Another 16 wins & 52 nominations.",
+  "directors": "",
+  "directorList": [],
+  "writers": "",
+  "writerList": [],
+  "stars": "Dominic West, Lance Reddick, Sonja Sohn, Wendell Pierce",
+  "starList": [
+    { "id": "nm0922035", "name": "Dominic West" },
+    { "id": "nm0714698", "name": "Lance Reddick" },
+    { "id": "nm0812308", "name": "Sonja Sohn" },
+    { "id": "nm0682495", "name": "Wendell Pierce" }
+  ],
+  "actorList": [
+    {
+      "id": "nm0922035",
+      "image": "https://imdb-api.com/images/original/MV5BMjM1MDU1Mzg3N15BMl5BanBnXkFtZTgwNTcwNzcyMzI@._V1_Ratio1.5909_AL_.jpg",
+      "name": "Dominic West",
+      "asCharacter": "Det. James 'Jimmy' McNulty / ... 60 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0231283",
+      "image": "https://imdb-api.com/images/original/MV5BMTUxMzgzNTA4Ml5BMl5BanBnXkFtZTgwOTY5NzMzNjE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "John Doman",
+      "asCharacter": "Dep. Comm. for Operations William A. Rawls / ... 60 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0522479",
+      "image": "https://imdb-api.com/images/original/MV5BZGJiNTU2MjMtMDE5Ny00NzFhLWI0MTktZjNjZjczZjI2MzUxXkEyXkFqcGdeQXVyMTcwMDUxNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Deirdre Lovejoy",
+      "asCharacter": "Asst. State's Atty. Rhonda Pearlman 60 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0682495",
+      "image": "https://imdb-api.com/images/original/MV5BMTg4NjI5NzM2N15BMl5BanBnXkFtZTcwODI3NDUxOQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Wendell Pierce",
+      "asCharacter": "Det. William 'Bunk' Moreland 60 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0714698",
+      "image": "https://imdb-api.com/images/original/MV5BMTY0MDkyMjk5OV5BMl5BanBnXkFtZTcwNDUxMzc0Mw@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Lance Reddick",
+      "asCharacter": "Lt. Cedric Daniels / ... 60 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0812308",
+      "image": "https://imdb-api.com/images/original/MV5BMzE5MDM1MDY2OF5BMl5BanBnXkFtZTcwOTIzNDcwMg@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Sonja Sohn",
+      "asCharacter": "Det. Shakima 'Kima' Greggs 60 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0319121",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ3ODI4MjAzOF5BMl5BanBnXkFtZTcwOTA4ODA4MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Seth Gilliam",
+      "asCharacter": "Sgt. Ellis Carver / ... 60 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0518511",
+      "image": "https://imdb-api.com/images/original/MV5BMTQxODk1ODYzNF5BMl5BanBnXkFtZTgwNTE1ODU2MzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Domenick Lombardozzi",
+      "asCharacter": "Det. Thomas 'Herc' Hauk / ... 60 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0676370",
+      "image": "https://imdb-api.com/images/original/MV5BMTM2ODgwNDAxNF5BMl5BanBnXkFtZTcwNDc1MzMwNQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Clarke Peters",
+      "asCharacter": "Det. Lester Freamon 59 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0747420",
+      "image": "https://imdb-api.com/images/original/MV5BMjM4MDMwNTMzNF5BMl5BanBnXkFtZTgwOTI0ODAxNjE@._V1_Ratio1.0000_AL_.jpg",
+      "name": "Andre Royo",
+      "asCharacter": "Reginald 'Bubbles' Cousins 52 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0931324",
+      "image": "https://imdb-api.com/images/original/MV5BMjE1MTI1NjUxMV5BMl5BanBnXkFtZTgwNTUyODM0MTE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Kenneth Williams",
+      "asCharacter": "Omar Little 50 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0874082",
+      "image": "https://imdb-api.com/images/original/MV5BODAzOTAxMjE2OV5BMl5BanBnXkFtZTgwNDUzNDU0NTE@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Jim True-Frost",
+      "asCharacter": "Det. Roland 'Prez' Pryzbylewski / ... 50 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0265670",
+      "image": "https://imdb-api.com/images/original/MV5BMTk1Mjk3NDg5MV5BMl5BanBnXkFtZTcwNzI2ODQ1MQ@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Frankie Faison",
+      "asCharacter": "Acting Commissioner Ervin H. Burrell / ... 47 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0732494",
+      "image": "https://imdb-api.com/images/original/MV5BOGI5NzEzYzgtMWU2YS00MGRlLTljM2EtMTMyYTExM2Q2ZGUxXkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Corey Parker Robinson",
+      "asCharacter": "Det. Leander Sydnor 45 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0216257",
+      "image": "https://imdb-api.com/images/original/MV5BOGEyYTc2MjYtOTQ3Ny00NDJlLWJkMDMtMDViOGVkYzUxNmVmXkEyXkFqcGdeQXVyMzY5OTIwNjk@._V1_Ratio0.9091_AL_.jpg",
+      "name": "Delaney Williams",
+      "asCharacter": "Sgt. Jay Landsman 44 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0412907",
+      "image": "https://imdb-api.com/images/original/MV5BMTU5NTQwNDM0NV5BMl5BanBnXkFtZTcwMjA0MDE4OA@@._V1_Ratio1.5000_AL_.jpg",
+      "name": "J.D. Williams",
+      "asCharacter": "Preston 'Bodie' Broadus 42 episodes, 2002-2006"
+    },
+    {
+      "id": "nm0365445",
+      "image": "https://imdb-api.com/images/original/MV5BMTQyMDY2NDY4OF5BMl5BanBnXkFtZTcwNjM5OTY0OA@@._V1_Ratio1.7727_AL_.jpg",
+      "name": "Wood Harris",
+      "asCharacter": "Avon Barksdale 38 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0252961",
+      "image": "https://imdb-api.com/images/original/MV5BNzEzMTI2NjEyNF5BMl5BanBnXkFtZTcwNTA0OTE4OA@@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Idris Elba",
+      "asCharacter": "Russell 'Stringer' Bell 37 episodes, 2002-2004"
+    },
+    {
+      "id": "nm0318821",
+      "image": "https://imdb-api.com/images/original/MV5BMjMwNzE4MzMxNl5BMl5BanBnXkFtZTgwOTYwMTEyMDE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Aidan Gillen",
+      "asCharacter": "Councilman Thomas 'Tommy' Carcetti / ... 35 episodes, 2004-2008"
+    },
+    {
+      "id": "nm0373100",
+      "image": "https://imdb-api.com/images/original/MV5BMjVkYTFmNWMtZDg0ZS00M2UxLWJlNWQtMThhMmQ2OTFhMDU0XkEyXkFqcGdeQXVyMzgxNDMyNw@@._V1_Ratio1.2727_AL_.jpg",
+      "name": "Jamie Hector",
+      "asCharacter": "Marlo Stanfield 32 episodes, 2004-2008"
+    },
+    {
+      "id": "nm1782153",
+      "image": "https://imdb-api.com/images/original/MV5BMjIyNDc3MjA2N15BMl5BanBnXkFtZTgwODUzOTUzNTM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Gbenga Akinnagbe",
+      "asCharacter": "Chris Partlow / ... 27 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0936298",
+      "image": "https://imdb-api.com/images/original/MV5BMTg2MjkyNTgwMV5BMl5BanBnXkFtZTgwOTE5NDg1MzE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Robert Wisdom",
+      "asCharacter": "Howard 'Bunny' Colvin / ... 27 episodes, 2003-2008"
+    },
+    {
+      "id": "nm1733525",
+      "image": "https://imdb-api.com/images/original/MV5BMjExMzY2OTM5M15BMl5BanBnXkFtZTgwOTM1ODk3ODE@._V1_Ratio1.5000_AL_.jpg",
+      "name": "Anwan Glover",
+      "asCharacter": "Slim Charles 26 episodes, 2004-2008"
+    },
+    {
+      "id": "nm1787519",
+      "image": "https://imdb-api.com/images/original/MV5BMTc4MzY2NzAzMV5BMl5BanBnXkFtZTgwOTg4Mzk0NzE@._V1_Ratio0.7727_AL_.jpg",
+      "name": "Felicia Pearson",
+      "asCharacter": "Felicia 'Snoop' Pearson 23 episodes, 2004-2008"
+    },
+    {
+      "id": "nm0170968",
+      "image": "https://imdb-api.com/images/original/MV5BMmQ0N2M1MmItNjNmNy00NThlLTg5ZjUtODkyMjg4OWQ5YTIxL2ltYWdlXkEyXkFqcGdeQXVyMTk4ODc2ODg@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Chad L. Coleman",
+      "asCharacter": "Dennis 'Cutty' Wise 26 episodes, 2004-2008"
+    },
+    {
+      "id": "nm1307291",
+      "image": "https://imdb-api.com/images/original/MV5BNmRlMDgyN2YtZDFkNy00MDcwLTk4ZDQtNTljMDQxNzA1OGMyXkEyXkFqcGdeQXVyMzIxMjEyNjM@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Tray Chaney",
+      "asCharacter": "Malik 'Poot' Carr 24 episodes, 2002-2008"
+    },
+    {
+      "id": "nm0467512",
+      "image": "https://imdb-api.com/images/original/MV5BMTQ2MjQ2MTIyMl5BMl5BanBnXkFtZTgwMDcyOTMwODE@._V1_Ratio0.7273_AL_.jpg",
+      "name": "Michael Kostroff",
+      "asCharacter": "Maurice 'Maury' Levy 25 episodes, 2002-2008"
+    }
+  ],
+  "fullCast": null,
+  "genres": "Crime, Drama, Thriller",
+  "genreList": [
+    { "key": "Crime", "value": "Crime" },
+    { "key": "Drama", "value": "Drama" },
+    { "key": "Thriller", "value": "Thriller" }
+  ],
+  "companies": "Blown Deadline Productions, Home Box Office (HBO)",
+  "companyList": [
+    { "id": "co0019588", "name": "Blown Deadline Productions" },
+    { "id": "co0008693", "name": "Home Box Office (HBO)" }
+  ],
+  "countries": "USA",
+  "countryList": [{ "key": "USA", "value": "USA" }],
+  "languages": "English, Greek, Mandarin, Spanish",
+  "languageList": [
+    { "key": "English", "value": "English" },
+    { "key": "Greek", "value": "Greek" },
+    { "key": "Mandarin", "value": "Mandarin" },
+    { "key": "Spanish", "value": "Spanish" }
+  ],
+  "contentRating": "TV-MA",
+  "imDbRating": "9.3",
+  "imDbRatingVotes": "290127",
+  "metacriticRating": "91",
+  "ratings": null,
+  "wikipedia": null,
+  "posters": null,
+  "images": null,
+  "trailer": null,
+  "boxOffice": {
+    "budget": "",
+    "openingWeekendUSA": "",
+    "grossUSA": "",
+    "cumulativeWorldwideGross": ""
+  },
+  "tagline": "Read between the lines (season five)",
+  "keywords": "urban decay,corruption,wiretapping,drug war,drug trafficking",
+  "keywordList": [
+    "urban decay",
+    "corruption",
+    "wiretapping",
+    "drug war",
+    "drug trafficking"
+  ],
+  "similars": [
+    {
+      "id": "tt0141842",
+      "title": "The Sopranos",
+      "fullTitle": "The Sopranos (1999–2007)",
+      "year": "1999–2007",
+      "image": "https://imdb-api.com/images/original/MV5BZGJjYzhjYTYtMDBjYy00OWU1LTg5OTYtNmYwOTZmZjE3ZDdhXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_Ratio0.7053_AL_.jpg",
+      "plot": "New Jersey mob boss Tony Soprano deals with personal and professional issues in his home and business life that affect his mental state, leading him to seek professional psychiatric counseling.",
+      "directors": "",
+      "stars": "James Gandolfini, Lorraine Bracco, Edie Falco",
+      "genres": "Crime, Drama",
+      "imDbRating": "9.2"
+    },
+    {
+      "id": "tt2356777",
+      "title": "True Detective",
+      "fullTitle": "True Detective (2014–2019)",
+      "year": "2014–2019",
+      "image": "https://imdb-api.com/images/original/MV5BMTUwMGM2ZmYtZGEyZC00OWQyLWI2Y2QtMTdjYzMxZGJmNjhjXkEyXkFqcGdeQXVyNjU2ODM5MjU@._V1_Ratio0.6737_AL_.jpg",
+      "plot": "Seasonal anthology series in which police investigations unearth the personal and professional secrets of those involved, both within and outside the law.",
+      "directors": "",
+      "stars": "Vince Vaughn, Colin Farrell, Rachel McAdams",
+      "genres": "Crime, Drama, Mystery",
+      "imDbRating": "8.9"
+    },
+    {
+      "id": "tt0185906",
+      "title": "Band of Brothers",
+      "fullTitle": "Band of Brothers (2001)",
+      "year": "2001",
+      "image": "https://imdb-api.com/images/original/MV5BMTI3ODc2ODc0M15BMl5BanBnXkFtZTYwMjgzNjc3._V1_Ratio0.6737_AL_.jpg",
+      "plot": "The story of Easy Company of the U.S. Army 101st Airborne Division, and their mission in World War II Europe, from Operation Overlord, through V-J Day.",
+      "directors": "",
+      "stars": "Scott Grimes, Damian Lewis, Ron Livingston",
+      "genres": "Action, Drama, History",
+      "imDbRating": "9.4"
+    },
+    {
+      "id": "tt7366338",
+      "title": "Chernobyl",
+      "fullTitle": "Chernobyl (2019)",
+      "year": "2019",
+      "image": "https://imdb-api.com/images/original/MV5BZGQ2YmMxZmEtYjI5OS00NzlkLTlkNTEtYWMyMzkyMzc2MDU5XkEyXkFqcGdeQXVyMzQ2MDI5NjU@._V1_Ratio0.6737_AL_.jpg",
+      "plot": "In April 1986, an explosion at the Chernobyl nuclear power plant in the Union of Soviet Socialist Republics becomes one of the world's worst man-made catastrophes.",
+      "directors": "",
+      "stars": "Jessie Buckley, Jared Harris, Stellan Skarsgård",
+      "genres": "Drama, History, Thriller",
+      "imDbRating": "9.4"
+    },
+    {
+      "id": "tt2802850",
+      "title": "Fargo",
+      "fullTitle": "Fargo (TV Series 2014)",
+      "year": "TV Series 2014",
+      "image": "https://imdb-api.com/images/original/MV5BN2NiMGE5M2UtNWNlNC00N2Y4LTkwOWUtMDlkMzEwNTcyOTcyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6842_AL_.jpg",
+      "plot": "Various chronicles of deception, intrigue and murder in and around frozen Minnesota. Yet all of these tales mysteriously lead back one way or another to Fargo, North Dakota.",
+      "directors": "",
+      "stars": "Billy Bob Thornton, Martin Freeman, Allison Tolman",
+      "genres": "Crime, Drama, Thriller",
+      "imDbRating": "8.9"
+    },
+    {
+      "id": "tt0903747",
+      "title": "Breaking Bad",
+      "fullTitle": "Breaking Bad (2008–2013)",
+      "year": "2008–2013",
+      "image": "https://imdb-api.com/images/original/MV5BMjhiMzgxZTctNDc1Ni00OTIxLTlhMTYtZTA3ZWFkODRkNmE2XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_Ratio0.7158_AL_.jpg",
+      "plot": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's future.",
+      "directors": "",
+      "stars": "Bryan Cranston, Aaron Paul, Anna Gunn",
+      "genres": "Crime, Drama, Thriller",
+      "imDbRating": "9.5"
+    },
+    {
+      "id": "tt2707408",
+      "title": "Narcos",
+      "fullTitle": "Narcos (2015–2017)",
+      "year": "2015–2017",
+      "image": "https://imdb-api.com/images/original/MV5BNmFjODU3YzgtMGUwNC00ZGI3LWFkZjQtMjkxZDc3NmQ1MzcyXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_Ratio0.6737_AL_.jpg",
+      "plot": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar, as well as the many other drug kingpins who plagued the country through the years.",
+      "directors": "",
+      "stars": "Pedro Pascal, Wagner Moura, Boyd Holbrook",
+      "genres": "Biography, Crime, Drama",
+      "imDbRating": "8.8"
+    },
+    {
+      "id": "tt8420184",
+      "title": "The Last Dance",
+      "fullTitle": "The Last Dance (2020)",
+      "year": "2020",
+      "image": "https://imdb-api.com/images/original/MV5BY2U1ZTU4OWItNGU2MC00MTg1LTk4NzUtYTk3ODhjYjI0MzlmXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6737_AL_.jpg",
+      "plot": "Charting the rise of the 1990's Chicago Bulls, led by Michael Jordan, one of the most notable dynasties in sports history.",
+      "directors": "",
+      "stars": "Phil Jackson, Michael Jordan, David Aldridge",
+      "genres": "Documentary, Biography, History",
+      "imDbRating": "9.1"
+    },
+    {
+      "id": "tt5491994",
+      "title": "Planet Earth II",
+      "fullTitle": "Planet Earth II (2016)",
+      "year": "2016",
+      "image": "https://imdb-api.com/images/original/MV5BZWYxODViMGYtMGE2ZC00ZGQ3LThhMWUtYTVkNGE3OWU4NWRkL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyMjYwNDA2MDE@._V1_Ratio0.6737_AL_.jpg",
+      "plot": "Wildlife documentary series with David Attenborough, beginning with a look at the remote islands which offer sanctuary to some of the planet's rarest creatures, to the beauty of cities, which are home to humans, and animals..",
+      "directors": "",
+      "stars": "David Attenborough",
+      "genres": "Documentary",
+      "imDbRating": "9.5"
+    },
+    {
+      "id": "tt0944947",
+      "title": "Game of Thrones",
+      "fullTitle": "Game of Thrones (2011–2019)",
+      "year": "2011–2019",
+      "image": "https://imdb-api.com/images/original/MV5BYTRiNDQwYzAtMzVlZS00NTI5LWJjYjUtMzkwNTUzMWMxZTllXkEyXkFqcGdeQXVyNDIzMzcwNjc@._V1_Ratio0.7368_AL_.jpg",
+      "plot": "Nine noble families fight for control over the lands of Westeros, while an ancient enemy returns after being dormant for millennia.",
+      "directors": "",
+      "stars": "Emilia Clarke, Peter Dinklage, Kit Harington",
+      "genres": "Action, Adventure, Drama",
+      "imDbRating": "9.3"
+    },
+    {
+      "id": "tt0979432",
+      "title": "Boardwalk Empire",
+      "fullTitle": "Boardwalk Empire (2010–2014)",
+      "year": "2010–2014",
+      "image": "https://imdb-api.com/images/original/MV5BYTYxNzc5ZmYtODcyNi00ZWUwLWExNWUtY2Y0YTlhZDBlMGU1XkEyXkFqcGdeQXVyNzQ1ODk3MTQ@._V1_Ratio0.6947_AL_.jpg",
+      "plot": "An Atlantic City politician plays both sides of the law by conspiring with gangsters during the Prohibition era.",
+      "directors": "",
+      "stars": "Steve Buscemi, Kelly Macdonald, Michael Shannon",
+      "genres": "Crime, Drama, History",
+      "imDbRating": "8.5"
+    },
+    {
+      "id": "tt3032476",
+      "title": "Better Call Saul",
+      "fullTitle": "Better Call Saul (2015–2021)",
+      "year": "2015–2021",
+      "image": "https://imdb-api.com/images/original/MV5BMGE4YzY4NGEtOWYyYS00ZDk2LWExMmMtZDIyODhiMmNlMGE0XkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_Ratio0.6737_AL_.jpg",
+      "plot": "The trials and tribulations of criminal lawyer Jimmy McGill in the time before he established his strip-mall law office in Albuquerque, New Mexico.",
+      "directors": "",
+      "stars": "Bob Odenkirk, Rhea Seehorn, Jonathan Banks",
+      "genres": "Crime, Drama",
+      "imDbRating": "8.7"
+    }
+  ],
+  "tvSeriesInfo": {
+    "yearEnd": "2008",
+    "creators": "David Simon",
+    "creatorList": [{ "id": "nm0800108", "name": "David Simon" }],
+    "seasons": ["1", "2", "3", "4", "5"]
+  },
+  "tvEpisodeInfo": null,
+  "errorMessage": ""
+}
