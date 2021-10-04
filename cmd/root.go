@@ -5,17 +5,18 @@ import (
 	"os"
 
 	"github.com/spf13/cobra"
-
 	"github.com/spf13/viper"
 )
 
 var cfgFile string
+var Shows []Show
 
 // rootCmd represents the base command when called without any subcommands
 var rootCmd = &cobra.Command{
 	Use:   "keetrashow",
 	Short: "keep track of your shows !",
 	Long:  `TODO`,
+	Run:   displayCmd.Run,
 }
 
 // Execute adds all child commands to the root command and sets flags appropriately.
@@ -41,14 +42,16 @@ func initConfig() {
 		// Use config file from the flag.
 		viper.SetConfigFile(cfgFile)
 	} else {
+		viper.AddConfigPath(".")
 		// Find home directory.
 		home, err := os.UserHomeDir()
 		cobra.CheckErr(err)
-
 		// Search config in home directory with name ".keetrashow" (without extension).
 		viper.AddConfigPath(home)
-		viper.SetConfigType("yaml")
+
+		viper.SetConfigType("json")
 		viper.SetConfigName(".keetrashow")
+
 	}
 
 	viper.AutomaticEnv() // read in environment variables that match
@@ -57,4 +60,34 @@ func initConfig() {
 	if err := viper.ReadInConfig(); err == nil {
 		fmt.Fprintln(os.Stderr, "Using config file:", viper.ConfigFileUsed())
 	}
+}
+
+func LoadData() {
+	Shows = append(Shows, Show{
+		title:         "The wire",
+		remote_api_id: "noideayet",
+		seasons: []Season{
+			{
+				season:   1,
+				episodes: 13,
+			}, {
+				season:   2,
+				episodes: 12,
+			}, {
+				season:   3,
+				episodes: 12,
+			}, {
+				season:   4,
+				episodes: 13,
+			}, {
+				season:   5,
+				episodes: 10,
+			},
+		},
+		last_watched: Episode{
+			season:  1,
+			episode: 7,
+		},
+		finished: false,
+	})
 }

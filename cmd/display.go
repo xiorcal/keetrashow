@@ -1,33 +1,20 @@
-/*
-Copyright © 2021 NAME HERE <EMAIL ADDRESS>
-
-Licensed under the Apache License, Version 2.0 (the "License");
-you may not use this file except in compliance with the License.
-You may obtain a copy of the License at
-
-    http://www.apache.org/licenses/LICENSE-2.0
-
-Unless required by applicable law or agreed to in writing, software
-distributed under the License is distributed on an "AS IS" BASIS,
-WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
-See the License for the specific language governing permissions and
-limitations under the License.
-*/
 package cmd
 
 import (
 	"fmt"
 
 	"github.com/spf13/cobra"
+	"github.com/spf13/viper"
 )
 
 // displayCmd represents the display command
 var displayCmd = &cobra.Command{
 	Use:   "display",
-	Short: "display your current show",
+	Short: "display your currents shows",
 	Long:  `TODO`,
 	Run: func(cmd *cobra.Command, args []string) {
-		fmt.Println("display called")
+		fmt.Printf("display called with data file: %v\n", viper.GetString("storage-file"))
+		execute()
 	},
 }
 
@@ -37,4 +24,12 @@ func init() {
 	// Cobra supports local flags which will only run when this command
 	// is called directly, e.g.:
 	// displayCmd.Flags().BoolP("toggle", "t", false, "Help message for toggle")
+}
+func execute() {
+	//load data
+	LoadData()
+	//display data
+	for i := 0; i < len(Shows); i++ {
+		fmt.Println(Shows[i])
+	}
 }
